@@ -1,0 +1,25 @@
+Personagem: 00
+Jogador: Dioo
+Role: Solo
+Origem: Eastern European
+Idiomas: English, Finnish, Polish, Romanian, Russian, Ukrainian
+Personalidade: Fatalistc e Violent
+Roupas: Retro Chic (Old-school Cool, Traditional, Distinguished )
+Cabelo: Multicoloured
+Afetação: A favourite hat
+O que vc mais valoriza: Independence
+Sobre as pessoas: They are fascinating to watch. From afar.
+Pessoa mais importante: A person who doesn't know you exist.
+Objeto mais valioso: A deed
+Original Background: Edgerunners
+Description: You grew up in one of the huge new megastructures that went up after the War. Atiny conapt, kibble and scop for food, a mostly warm bed. Some better educated adult warren dwellers or a local Corporation may have set up a school.
+Objetivos na vida: Live down your past life and try to forget it.
+Crise familiar: Your family is involved in a long-term conspiracy, organization, or association, such as a crime family or revolutionary group.
+Ambiente de infância: In a Nomad pack moving from place to place.
+Amigos: Não. Ninguém
+Inimigos: Não, nenhum.
+Vingança? Sem inimigos, sem vingança
+Amores? Não, nenhum.
+Seus Stats são:
+INT(7), REF(8), DEX(6), TECH(3), COLL(7)
+WILL(7), LUCK(7), MOVE(6), BODY(6), EMP(4)
